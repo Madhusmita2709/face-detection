@@ -1,5 +1,3 @@
-# face-detection
-Face detection using HaarCascade and CNN with real-time recognition
 # 🎯 Face Detection & Recognition System
 
 **Implemented by:** Madhusmita Sahu  
